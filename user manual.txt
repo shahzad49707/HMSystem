@@ -1,0 +1,98 @@
+
+
+
+User lab Manual:
+Name:
+Shahzad(49707)
+Syeda kissa zehra(51840)
+Moiz Ahmeed(49642)
+
+
+
+LOGIN:
+ 
+
+User  enter your name and password and then click Ok button to login.
+
+USERS:
+ 
+
+Click user button to add new user,change password and get login details.
+
+Add new user:
+ 
+
+To add a new user,Click new user button and fill out the form and then click save button.
+To get user data,click get data button.
+To update user data,click update button.
+
+Change Password:
+
+ 
+
+To change your password,click password button and add a new password and then click change password button.
+Patient:
+Patient Registration:
+In patient registration,user need to fill form with patient data.
+ 
+Need to selct Gender and blood group of patient.
+To get Patient data,click get data button.
+To update patient data,click update button.
+To delete patient data,click delete button.
+
+
+Service:
+In service,user need to fill form with patient Id and patient name.
+ 
+In the service,Sevice info from the Date need to enter (2012-02-21).
+To get service data,click get data button.
+To update service data,click update button.
+To delete service,click delete button.
+Doctor:
+Doctor Registration:
+In Doctor registration,user need to fill form with Doctor data.
+ 
+Need to selct Gender and blood group of doctor.
+In the Doctor,Doctor Details from the Date of joining need to enter (2012-02-21).
+To get Doctor data,click get data button.
+To update Doctor data,click update button.
+To delete Doctor data,click delete button.
+
+
+Room:
+Add room:
+In add room,user need to fill form with room data.
+ 
+Need to select room type of room info.
+To get Room data,click get data button.
+To update Room data,click update button.
+To delete Room data,click delete button.
+
+
+Admit room:
+After clicking admit room,user can fill patient disease,admit date and select room type.
+ 
+To get Admit room data,click get data button.
+To update Admit room data,click update button.
+To delete Admit room,click delete button.
+
+
+Discharge Room:
+After clicking discharge room,user will fill discharge date and remarks.
+ 
+To get Discharge room data,click get data button.
+To update Discharge room data,click update button.
+To delete discharge room data,click delete button.
+
+
+Billing:
+After clicking billing,user select the patient and need to select payment mode,billing date and payment mode detail.
+ 
+
+To get Billing data,click get data button.
+To update Billing data,click update button.
+To delete Billing data,click delete button.
+
+
+Help:
+If user want any help related the software so user click help button and get information.
